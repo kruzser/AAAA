@@ -1,0 +1,20 @@
+<html>
+   <body>
+        <header>
+        <h1 style="text-align:center;color:blue">Парк развлечений</h1>
+        <h1 style="text-align:center;color:darkorange">"А-а-а-а"</h1>
+        <img src="https://w7.pngwing.com/pngs/605/346/png-transparent-computer-icons-carousel-entertainment-carousel-photography-logo-amusement-park.png" with=200"px" height=200"px">
+        </header>
+        <main>
+        <h2>Атракционы:</h2>
+        <p style="background-color: lightblue">*Колесо обозрения <br/> <img src="https://koleso5zvezd.ru/Content/images/ryazan1.jpg" with=10"px" height=80"px">Стоимость: 600руб.(детям до 5 лет бесплатно)Колесо обозрения-механический аттракцион в виде большого вертикально установленного колеса, к ободу которого прикреплены кабинки для пассажиров. Колёса обозрения есть во многих парках развлечений и других местах.</p>
+        <p style="background-color:orange; text-align: center">*Комната смеха <br/>  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/V%C4%9Btru%C5%A1e%2C_zrcadlov%C3%A9_bludi%C5%A1t%C4%9B.jpg" with=10"px" height=80"px"><br/>Стоимость: 200руб.(детям до 5 лет бесплатно)</p>
+        <p style="background-color: lightblue">*Автодром с электрическими машинами   <img src="https://solnechniy-ostrov.ru/upload/iblock/bbf/bbf92e1b03d38694538b36934ba591e1.jpg" with=10"px" height=80"px">Стоимость: 310руб.</p>
+        <p style="background-color:orange">*Тир   <img src="https://superpiar.com/upload/iblock/c0c/c0c2eb734ebc6433427e52074a3b0979.jpg" with=10"px" height=80"px">Стоимость: 100руб.</p>
+        <p style="background-color: lightblue">*Батуты   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsEoe5St3eXyJBfTQTzCKkR1Mr6zdiHGrjpA&s" with=10"px" height=80"px">Стоимость: 550руб.(детям до 4 лет бесплатно)</p>
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
